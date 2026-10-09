@@ -1,4 +1,4 @@
-# Studio 2 — Klasifikasi Sampah · Kelompok <NOMOR/Vegapunk>
+# Studio 2 — Klasifikasi Sampah · Kelompok Vegapunk
 
 Deep Learning (IF25-40401) · Teknik Informatika ITERA · Semester Ganjil 2026/2027
 
